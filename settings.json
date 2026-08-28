@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "naseboo.aternos.me",
-    "port": 26178,
+    "ip": "simplefriendlysmp.aternos.me",
+    "port": 58817,
     "version": "1.20.1",
     "try-creative": false
   },
